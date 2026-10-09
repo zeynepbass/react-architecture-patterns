@@ -165,8 +165,3 @@ http://localhost:3000
 - Docker
 - i18n (Çoklu Dil Desteği)
 
----
-
-# 📄 Lisans
-
-Bu proje **MIT License** ile lisanslanmıştır.
