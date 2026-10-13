@@ -161,7 +161,6 @@ http://localhost:3000
 - TanStack Query
 - Unit Test
 - Integration Test
-- CI/CD
 - Docker
 - i18n (Çoklu Dil Desteği)
 
